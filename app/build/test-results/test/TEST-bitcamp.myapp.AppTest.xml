@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="bitcamp.myapp.AppTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-04-04T01:58:30" hostname="gimseungcheol-ui-MacBookPro.local" time="0.005">
+<testsuite name="bitcamp.myapp.AppTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-04-05T01:39:20" hostname="gimseungcheol-ui-MacBookPro.local" time="0.005">
   <properties/>
   <testcase name="appHasAGreeting()" classname="bitcamp.myapp.AppTest" time="0.005"/>
   <system-out><![CDATA[]]></system-out>
